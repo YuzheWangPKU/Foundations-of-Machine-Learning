@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{jung2013support}
+H.~G. Jung and G.~Kim, ``Support vector number reduction: Survey and
+  experimental evaluations,'' {\em IEEE Transactions on Intelligent
+  Transportation Systems}, vol.~15, no.~2, pp.~463--476, 2013.
+
+\bibitem{zhu20031}
+J.~Zhu, S.~Rosset, R.~Tibshirani, and T.~J. Hastie, ``1-norm support vector
+  machines,'' in {\em Advances in neural information processing systems},
+  Citeseer, 2003.
+
+\end{thebibliography}

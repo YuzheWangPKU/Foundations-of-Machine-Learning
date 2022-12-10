@@ -1,0 +1,29 @@
+% Encoding: UTF-8
+
+@InProceedings{zhu20031,
+  author       = {Zhu, Ji and Rosset, Saharon and Tibshirani, Robert and Hastie, Trevor J},
+  booktitle    = {Advances in neural information processing systems},
+  title        = {1-norm support vector machines},
+  year         = {2003},
+  organization = {Citeseer},
+  keywords     = {1norm},
+}
+
+@Article{jung2013support,
+  author    = {Jung, Ho Gi and Kim, Gahyun},
+  journal   = {IEEE Transactions on Intelligent Transportation Systems},
+  title     = {Support vector number reduction: Survey and experimental evaluations},
+  year      = {2013},
+  number    = {2},
+  pages     = {463--476},
+  volume    = {15},
+  publisher = {IEEE},
+}
+
+@Article{,
+}
+
+@Article{,
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

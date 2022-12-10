@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{rousseeuw1987silhouettes}
+P.~J. Rousseeuw, ``Silhouettes: a graphical aid to the interpretation and
+  validation of cluster analysis,'' {\em Journal of computational and applied
+  mathematics}, vol.~20, pp.~53--65, 1987.
+
+\bibitem{tibshirani2001estimating}
+R.~Tibshirani, G.~Walther, and T.~Hastie, ``Estimating the number of clusters
+  in a data set via the gap statistic,'' {\em Journal of the Royal Statistical
+  Society: Series B (Statistical Methodology)}, vol.~63, no.~2, pp.~411--423,
+  2001.
+
+\end{thebibliography}

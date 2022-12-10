@@ -1,0 +1,16 @@
+% Encoding: UTF-8
+
+@Book{breiman,
+  author    = {Breiman, Leo and Friedman, Jerome and Stone, Charles J and Olshen, Richard A},
+  publisher = {CRC press},
+  title     = {Classification and regression trees},
+  year      = {1984},
+}
+
+@Article{,
+}
+
+@Article{,
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
